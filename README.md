@@ -2,9 +2,9 @@
 
 This is an implementation of the following papers:
 
-[1] Salehkaleybar, S., Sharif-nassab, A., & Golestani, S. J. (2021). [One-Shot Federated Learning: Theoretical Limits and Algorithms to Achieve Them](https://arxiv.org/abs/1905.04634) (Journal of Machine Learning Research).
+[1] Salehkaleybar, S., Sharifnassab, A., & Golestani, S. J. (2021). [One-Shot Federated Learning: Theoretical Limits and Algorithms to Achieve Them](https://arxiv.org/abs/1905.04634) (Journal of Machine Learning Research).
 
-[2] Sharif-nassab, A., Salehkaleybar, S., & Golestani, S. J. (2019). [Order Optimal One-Shot Distributed Learning](https://arxiv.org/abs/1911.00731) (NeurIPS 2019).
+[2] Sharifnassab, A., Salehkaleybar, S., & Golestani, S. J. (2019). [Order Optimal One-Shot Distributed Learning](https://arxiv.org/abs/1911.00731) (NeurIPS 2019).
 
 
 If you find this code useful, please cite the following papers:

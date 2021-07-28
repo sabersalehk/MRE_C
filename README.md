@@ -1,4 +1,4 @@
-# Multi-Resolution Estimator for Convex Loss Function (MRE-C Algorithm)
+# Multi-Resolution Estimator for Convex Loss Functions (MRE-C Algorithm)
 
 This is an implementation of the following papers:
 

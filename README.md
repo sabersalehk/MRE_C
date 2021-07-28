@@ -38,8 +38,8 @@ If you find this code useful, please cite the following papers:
 
 ## Running an example
 
-In the current implementation, it is assumed that the number of samples per machine (\\(n\\)) is equal to one. In order to run instances of ridge regression problems
-for \\(m=10^5\\) number of machines, execute the following code:
+In the current implementation, it is assumed that the number of samples per machine (n) is equal to one. In order to run instances of ridge regression problems
+for m=100000 number of machines, execute the following code:
 
 $python MRE_C.py
 
